@@ -1,6 +1,6 @@
 # 12 декабря 
 
-* [os-json](): лекция по доступу к файлам и JSON
+* [os-json](https://nbviewer.jupyter.org/github/allatambov/py-dat18/blob/master/12-12/os-json.ipynb): лекция по доступу к файлам и JSON
 * [numpy-tutorial](https://nbviewer.jupyter.org/github/allatambov/py-dat18/blob/master/12-12/numpy-tutorial.ipynb): лекция по numpy
 * [ссылка](http://www.numpy.org/) на документацию по numpy
 * numpy на pythonworld (на русском): [1](https://pythonworld.ru/numpy/1.html), [2](https://pythonworld.ru/numpy/2.html)
