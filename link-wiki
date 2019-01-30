@@ -1,0 +1,3 @@
+## link
+
+query="http://ru.wikipedia.org/w/api.php?action=query&list=logevents&format=json&leprop=title%7Ctype%7Cuser%7Ctimestamp%7Ccomment%7Cdetails%7Crights&letype=rights&letitle="
